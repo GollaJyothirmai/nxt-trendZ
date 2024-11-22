@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.cart-summary {
+  height: 100px;
+  width: 100px;
+  box-shadow: 5px 5px;
+  font-family: roboto;
+  padding: 20px;
+}
+.summary-heading {
+  font-size: 20px;
+  color: #616e7c;
+}
+span {
+  color: black;
+}
+.count {
+  font-size: 15px;
+}
+.checkout-btn {
+  height: 50px;
+  width: 90%;
+  background-color: blue;
+  color: white;
+  border-radius: 8px;
+  border-width: 0px;
+}
